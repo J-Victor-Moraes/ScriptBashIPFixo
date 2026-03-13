@@ -19,16 +19,16 @@ Siga os passos abaixo para baixar e executar o script diretamente do repositóri
 
 Bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/J-Victor-Moraes/ScriptBashIPFixo
 
 # 2. Acesse o diretório
-cd nome-do-repositorio
+cd ScriptBashIPFixo.sh
 
 # 3. Dê permissão de execução ao script
-chmod +x fixar_ip.sh
+chmod +x ScriptBashIPFixo.sh
 
 # 4. Execute com privilégios de superusuário (sudo)
-sudo ./fixar_ip.sh
+sudo ./ScriptBashIPFixo.sh
 ⚠️ Recomendações de Uso
 Abaixo, uma matriz de decisão para ajudar a entender onde este script é um aliado e onde ele pode ser um problema:
 
